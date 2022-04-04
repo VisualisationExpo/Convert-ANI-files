@@ -30,21 +30,21 @@ This particular tutorial is based off the non-Mac App Store application as I onl
 # First up is the step to accessing the .ani file that you just downloaded from the link above or any other .ani file that you might have downloaded.
 
 
-![GettingStarted](https://github.com/VisualisationExpo/Convert-ANI-files/screenshots/GettingStarted.png?raw=true)
+![GettingStarted](https://github.com/VisualisationExpo/Convert-ANI-files/blob/main/screenshots/GettingStarted.png?raw=true)
 
 
 
 # This will demonstrate the settings for the actions section
 
 
-![Actions](https://github.com/VisualisationExpo/Convert-ANI-files/screenshots/Actions.png?raw=true)
+![Actions](https://github.com/VisualisationExpo/Convert-ANI-files/blob/main/screenshots/Actions.png?raw=true)
 
 
 
 
 # Here's a demonstration of the output settings
 
-![Output](https://github.com/VisualisationExpo/Convert-ANI-files/screenshots/Output.png?raw=true)
+![Output](https://github.com/VisualisationExpo/Convert-ANI-files/blob/main/screenshots/Output.png?raw=true)
 
 
 # We're almost done
@@ -55,4 +55,4 @@ bottom right of XnConvert's window
 
 # Lastly, here's a demonstration of the results
 
-![Results](https://github.com/VisualisationExpo/Convert-ANI-files/screenshots/Results.png?raw=true)
+![Results](https://github.com/VisualisationExpo/Convert-ANI-files/blob/main/screenshots/Results.png?raw=true)
